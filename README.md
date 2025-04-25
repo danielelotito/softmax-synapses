@@ -4,7 +4,8 @@ This repository contains the numerical implementation accompanying Appendix B of
 
 **Neural Learning Rules from Associative Networks Theory**  
 *Daniele Lotito (2025)*  
-Under revision
+Published on Neurocomputing
+(https://doi.org/10.1016/j.neucom.2025.129865)
 
 ## Overview
 
@@ -75,9 +76,14 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{lotito2025neural,
-    title={Neural Learning Rules from Associative Networks Theory},
-    author={Lotito, Daniele},
-    year={2025},
-    note={Under revision}
+title = {Neural learning rules from associative networks theory},
+journal = {Neurocomputing},
+volume = {636},
+pages = {129865},
+year = {2025},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2025.129865},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231225005375},
+author = {Daniele Lotito}
 }
 ```
